@@ -254,7 +254,7 @@ Dado a parte teórica do algoritmo, agora é hora de colocarmos a mão na massa,
 
 Links úteis:
 * Vídeo da aula: https://bit.ly/34lGLfB
-* Material do vídeo: https://github.com/betrybe/mauricioevandro-test/blob/main/Aula/notebook/supervisioned_knn.ipynb
+* Material do vídeo: https://github.com/MauricioEloy/curso_introducao_ciencia_de_dados/blob/master/notebooks/aulas/supervisioned_knn.ipynb
 
 ## <span style="color:blue">Exercícios</span>
 
@@ -273,7 +273,7 @@ Links úteis:
    * https://bit.ly/35Fim4O
 
    O arquivo para iniciar a sua resolução você encontra em:
-   * https://github.com/betrybe/mauricioevandro-test/blob/main/Aula/notebook/supervisioned_knn_Q4.ipynb
+   * https://github.com/MauricioEloy/curso_introducao_ciencia_de_dados/blob/master/notebooks/exercicios/supervisioned_knn_Q4.ipynb
 
 5. (Extra) De maneira complementar ao exercício anterior, você deve:
    * verificar a separação dos dados no plano utilizando as variáveis ```mean radius``` e ```mean texture```;
@@ -282,7 +282,7 @@ Links úteis:
 **Gabarito:** 
 
 Disponível em: 
-   * https://github.com/betrybe/mauricioevandro-test/blob/main/Aula/notebook/supervisioned_knn_Gabarito.ipynb
+   * https://github.com/MauricioEloy/curso_introducao_ciencia_de_dados/blob/master/notebooks/exercicios/supervisioned_knn_Gabarito.ipynb
 
 ## <span style="color:blue">Referências Bibliográficas:</span>
 
